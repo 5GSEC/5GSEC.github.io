@@ -106,7 +106,7 @@ func (t displayT) generateAllTacticsPage(out *os.File) error {
 	<table>
 	<th style='text-align: left'>
 	  {{range .Tactics}}
-	  <th><a href="https://5GSEC.github.io/tactics-{{.Id}}.html">{{.Name}}</a></th>
+	  <th><a href="https://5GSEC.github.io/tactic-{{.Id}}.html">{{.Name}}</a></th>
 	  {{end}}
 	</th>
 	</table>
