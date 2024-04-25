@@ -128,7 +128,11 @@ func (t Tactic) generateTechniquesPerTacticPage(out *os.File) error {
 	  {{range .Techniques}}
 	<tr>
 	  <td><a href="https://fight.mitre.org/techniques/{{.Id}}">{{.Name}}</a></td>
-	  <td>{{.Support}}</th>
+	  <td>{{.Support}}
+	  {{if eq .Support "yes"}}&#x1F7E2
+      {{else if eq .Support "no"}}&#x1F534
+      {{end}}
+	  </td>
 	</tr>
 	  {{end}}
 	</table>
