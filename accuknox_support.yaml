@@ -1,0 +1,139 @@
+techniques:
+  MNO Roaming Partners : no
+  Implant Internal Image : no
+  Bypass home routing : no
+  Bid down UE : no
+  Internal resource search : no
+  Network Function Service Discovery : no
+  Network Flow Manipulation : no
+  'Controller ' : no
+  vSwitch : no
+  Manipulate Virtual Network Function (VNF) Configuration : no
+  Escape to Host : yes
+  Memory Scraping : no
+  Application Layer Protocol : no
+  Local Accounts : no
+  Rootkit : no
+  Unauthorized software in NFVI : no
+  Service Exhaustion Flood : no
+  Registration of malicious network functions : no
+  Radio Jamming : no
+  'Redirection of traffic via user plane network function  ' : no
+  Fraudulent AMF registration for UE in UDM : no
+  Unauthorized access to Network Exposure Function (NEF) via token fraud : no
+  5G-GUTI reuse : no
+  Radio Interface : no
+  Tunnel Endpoint ID (TEID) uniqueness failure : no
+  Remote Services : no
+  Supply Chain Compromise : no
+  Software Deployment Tools : no
+  Cloud Accounts : no
+  Malicious VNF Instantiation : no
+  Accessing Terminated VNF : no
+  Shared resource discovery : no
+  Malicious privileged container VNF Shared Resource Access : no
+  Malicious co-tenancy  exploit of NFVI (Network Slice) : no
+  Network Slice infrastructure resource hijacking : no
+  Network Slice application resource hijacking : no
+  Network Sniffing : no
+  Traffic Duplication : no
+  Hardware Security Module Key Signing : no
+  Device Database Manipulation : no
+  Flooding of core network component : no
+  Abuse of Inter-operator Interfaces : no
+  Remote System Discovery : no
+  Network Service Discovery : no
+  Network Boundary Bridging : no
+  Vandalism of Network Infrastructure : no
+  Cabling and junction boxes : no
+  Radio Access Hardware : no
+  Edge servers : no
+  Theft of Assets : no
+  Core Network Function Signaling : no
+  'Roaming and Interconnection ' : no
+  Subscriber Profile Identifier Discovery : no
+  Intercept Home Network via SUCI : no
+  Intercept bid-down SUPI : no
+  Passive radio signals observation : no
+  Self Location Measurement : no
+  Radio interface : no
+  Consume data allocation to deny or degrade service : no
+  Trigger fraud alert to deny service : no
+  Alter Subscriber Profile : no
+  Spoof network slice identifier : no
+  'Discover network slice identifier ' : no
+  Falsify interconnect invoice : no
+  SIM cloning : no
+  'Non-SBI ' : no
+  Transmitted Data Manipulation : no
+  Locate UE : no
+  Shared Network Function in slice : no
+  'Service Based Interface ' : no
+  DOS a UE via gNB or NF signaling : no
+  Retrieve UE subscription data : no
+  Charging fraud via NF control : no
+  SIM Credential Theft : no
+  Network-side SMS collection : no
+  'Charging Data Record (CDR) collection ' : no
+  NAS Exploit : no
+  gNodeB Component Manipulation : no
+  RAN Intelligent Controller (RIC) : no
+  xApp : no
+  rApp : no
+  Obtain subscriber identifier via NF : no
+  Protocol Tunneling : no
+  False Base Station or Access Point : no
+  Weaken Integrity : no
+  Exploit Public-Facing Application : no
+  Endpoint Denial of Service : no
+  Obtain Capabilities : no
+  Programable UE devices : no
+  Configurability of Fake Base Station or Access Point : no
+  Shared slice common control network function resource exhaustion : no
+  Exfiltration Over Unencrypted Non-C2 Protocol : no
+  Exfiltration Over Alternative Protocol : no
+  Acquire Infrastructure : no
+  Network Interfaces : no
+  Compromise Service Supply Chain : no
+  Intercept unencrypted SUPI : no
+  Exploit Semi-public Facing Application : no
+  Over-the-Air Input : no
+  Baseband API : no
+  Exploits : no
+  Operator Network : no
+  Network Access : no
+  UE Access via GTP-U : no
+  Discover TEID : no
+  UE DoS to AMF : no
+  GTP-U Abuse : no
+  Diameter signaling : no
+  Radio control manipulation via rogue xApps : no
+  IAB Denial of Service : no
+  Develop Capabilities : no
+  Stage Capabilities : no
+  Configure Operator Core Network : no
+  Silent SMS : no
+  Silent or spoofed paging : no
+  Alter ML Model : no
+  AI/ML training data and prediction poisoning : no
+  Compromise Software Supply Chain : no
+  Compromise Hardware Supply Chain : no
+  Hardware Additions : no
+  Tool : no
+  ' Radio Network Functions' : no
+  Transmit Spoofed Broadcast Message : no
+  'Covert Exfiltration of Data Via DNS Request ' : no
+  Trusted Relationship : no
+  Impair Defenses : no
+  Gather Victim Host Information : no
+  Valid Accounts : no
+  Pre-OS Boot : no
+  Weaken Encryption : no
+  Container Administration Command : no
+  Automated Exfiltration : no
+  Credentials from Password Stores : no
+  Network Denial of Service : no
+  Adversary-in-the-Middle : no
+  Data Manipulation : no
+  Exploitation for Client Execution : no
+  
